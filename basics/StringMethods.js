@@ -12,6 +12,7 @@
   console.log(words);
   let skills="java c python js";
   console.log(skills.includes("js")); //  true
-
+let peru =" my name is ali";
+console.log(peru.replace("ali","Haseeb")); // my name is Haseeb
 
 
